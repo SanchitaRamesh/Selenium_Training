@@ -1,5 +1,6 @@
 a=10
 b=2
-
-while a%b==0:
-    print(f"{a} is divisble by {b}")
+if type(a)==int and type(b)==int:
+    print(f"{a} & {b} are of integer data type")
+else:
+    print(f"{a} & {b} are not integers")
