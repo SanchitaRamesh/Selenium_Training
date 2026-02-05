@@ -1,6 +1,7 @@
-a=10
-b=2
-if type(a)==int and type(b)==int:
-    print(f"{a} & {b} are of integer data type")
-else:
-    print(f"{a} & {b} are not integers")
+a=1
+b=10
+for i in range(a,b):
+    if i%2==0:
+        print(f'{i} is even number')
+    else:
+        print(f"{i} is odd number")
