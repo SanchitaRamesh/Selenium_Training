@@ -1,3 +1,3 @@
 ############################### 06/02/2026 ################################
 
-# Git commands were taught.
+# Git commands were taught. for detailed steps, refer to trainers notes
